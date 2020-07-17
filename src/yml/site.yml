@@ -1,7 +1,7 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Gunagzheng Li
+title: Jekflix | A personal blog
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+  Thiago Rossener. aa
 tags:
   - blog
   - template
@@ -18,5 +18,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: gli34@sheffield.ac.uk 
 disqus_username: disqus_username

@@ -1,8 +1,8 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Gunagzheng Li
+title: Jekflix | A personal blog
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+  Thiago Rossener. aa
 tags:
   - blog
   - template
@@ -19,14 +19,14 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: gli34@sheffield.ac.uk 
 disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
+github_username: GuangzhengLi3
+facebook_username: GuangzhengLi
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
@@ -101,4 +101,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: v1.0.0
