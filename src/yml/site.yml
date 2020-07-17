@@ -1,8 +1,6 @@
 name: Gunagzheng Li
-title: Jekflix | A personal blog
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener. aa
-tags:
+title: Guangzheng Li | A Personal Blog
+description: This is a personal Blog for Guangzheng Li, locates on Github and based on Jekflix 
   - blog
   - template
   - jekyll
@@ -12,11 +10,11 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: Personal CV
     url: /about
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
 email: gli34@sheffield.ac.uk 
-disqus_username: disqus_username
+disqus_username: GuangzhengLi
